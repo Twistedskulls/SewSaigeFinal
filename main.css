@@ -1,11 +1,10 @@
 *{
 	margin: 0 auto;
-	flex
 }
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    font-family: "Constantia", "Lucida Bright", "DejaVu Serif", "Georgia", "serif";
+	background-color:#f0f0f0;
     color: #333;
     margin: 0;
     padding: 0;
@@ -13,7 +12,7 @@ body {
 
 header {
     background-color: black;
-    color: neon purple;
+    color:rgba(146,3,171,1.00);
     padding: 20px;
     text-align: center;
 }
@@ -29,7 +28,7 @@ nav ul li {
 }
 
 nav a {
-    color: red;
+    color:rgba(167,6,9,1.00);
     text-decoration: none;
 }
 
@@ -49,7 +48,7 @@ section {
 
 footer {
     background-color: black;
-    color: neon purple;
+    color:rgba(146,3,171,1.00);
     text-align: center;
     padding: 10px;
     position: relative;
