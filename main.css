@@ -1,3 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
 *{
 	margin: 0 auto;
 }
@@ -15,6 +17,7 @@ header {
     color:rgba(146,3,171,1.00);
     padding: 20px;
     text-align: center;
+	background-image: url("SW1.jpg");
 }
 
 nav ul {
