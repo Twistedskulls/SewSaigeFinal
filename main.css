@@ -2,7 +2,6 @@
 /* CSS Document */
 *{
 	margin: 0 auto;
-	background-image: url("SW1.jpg") no-repeat cover fixed 100%;
 }
 
 body {
@@ -58,9 +57,8 @@ footer {
     bottom: 0;
     width: 100%;
 }
-body {
-	margin: 0 auto;
-	
+div{
+	margin: 0 auto;	
 }
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen 
