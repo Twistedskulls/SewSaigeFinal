@@ -8,14 +8,14 @@
 body {
     font-family: "Constantia", "Lucida Bright", "DejaVu Serif", "Georgia", "serif";
 	background-color:#f0f0f0;
-    color: #333;
+    color: #C20D84;
     margin: 0 auto;
     padding: 0;
 }
 
 header {
-    background-color:rgba(63,63,63,1.00);
-    color:rgba(224,114,240,1.00);
+    background-color:#97256A;
+    color:#EDCADB;
     padding: 20px;
     text-align: center;
 }
@@ -31,27 +31,27 @@ nav ul li {
 }
 
 nav a {
-    color:rgba(224,114,240,1.00);
+    color:#D4E9E3;
     text-decoration: none;
 }
 
 section {
     padding: 20px;
     margin: 10px;
-    background-color:rgba(135,135,135,1.00);
+    background-color:#DE97BD;
     border-radius: 8px;
 }
 
 .product {
     margin: 20px 0;
     padding: 10px;
-    border: 2px solid rgba(81,4,81,1.00);
+    border: 2px solid #97256A;
     border-radius: 5px;
 }
 
 footer {
-    background-color:darkgray;
-    color:rgba(224,114,240,1.00);
+    background-color:#97256A;
+    color:#D4E9E3;
     text-align: center;
     padding: 10px;
     position: relative;
