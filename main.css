@@ -58,6 +58,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+body {
+	margin: 0 auto;
+	
+}
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen 
 and (min-device-width : 320px) 
@@ -129,6 +133,5 @@ and (min-width : 1824px) {
 and (-webkit-min-device-pixel-ratio : 2), 
 only screen 
 and (min-resolution: 192dpi) {
-
 }
 
